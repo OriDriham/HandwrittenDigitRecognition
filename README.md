@@ -6,6 +6,8 @@ digits in images of size 28x28 pixels. The neural network consists of four
 dense layers with Rectified Linear Unit (ReLU) activation functions in the
 first three layers and a Softmax activation function in the output layer.
 
+![mlpExample](https://github.com/OriDriham/HandwrittenDigitRecognition/assets/145263130/667baae4-25a1-4422-af9c-45ab3d2cd523)
+
 
 # File Descriptions
 
